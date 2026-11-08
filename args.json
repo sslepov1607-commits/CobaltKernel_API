@@ -1,0 +1,4 @@
+{
+  "Roblox": "\"{executable_path}\\Bin\\Codex Bootstrapper.exe\" --roblox \"roblox://navigation/home\"",
+  "Inject": "Loader.exe {PID}"
+}
